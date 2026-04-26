@@ -21,7 +21,7 @@ Full-stack development · Backend engineering · UX-aware software · Data-drive
 ## Tech Stack
 
 **Languages**  
-Python · JavaScript · C/C++  
+Python · Java · JavaScript · C/C++  
 
 **Development**  
 React · Node.js · Express · REST APIs · JWT  
